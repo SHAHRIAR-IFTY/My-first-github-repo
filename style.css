@@ -1,0 +1,11 @@
+.image{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.container{
+    width: 50%;
+    height: 50%;   
+    display: flex;
+}
