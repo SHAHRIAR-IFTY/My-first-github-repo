@@ -1,11 +1,23 @@
 .image{
     width: 50%;
-    height: 50%;
     object-fit: cover;
     border-radius: 10px;
+    align-items: center;
 }
-.container{
-    width: 50%;
-    height: 50%;   
+.div01{
+    width: 50%; 
+    background-color: antiquewhite;
+    border-radius: 10px; 
+    padding: 10px;
+    margin:10px;
+}
+.main{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+img{
+    width: 50%;
+    border-radius: 10px;
 }
